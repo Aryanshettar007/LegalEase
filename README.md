@@ -1,4 +1,3 @@
-```markdown
 # LegalEase 🚀
 
 Your AI-powered legal assistant for simplifying legal jargon and understanding your rights.
